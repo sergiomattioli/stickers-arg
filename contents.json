@@ -6696,6 +6696,224 @@
         }
       ]
     },
+        {
+      "identifier": "personajes8",
+      "name": "Stickers Personajes 8",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "tags": "Capusotto, altas llantas, Gustavo Cordera, Leo rompe pepe, Ari Paluch, Walter Nelson, Wachiturros, Ricardo Conchita Barreda, Juan Darthes, China, La Faraona, Abel Pinto, Mono Mario, Diego Maradona, Fito Paez, a comerla, A lo tuyo, eia, El Marginal, El Pantera, Diosito, El Sapo, Marito Borges, El Cuis",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "personajes9",
+      "name": "Stickers Personajes 9",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "tags": "Oscar Ruggeri, 90 minutos, Marcelo Bielsa, El Marginal, Brian Bulei, Colombiano, El demente, Alfredo Casero, Flan, wachin, Mauricio Macri, Gato, No de nuevo, Serafin Dengra, Serafo, Never Pony, Pura sangre, Miss Bolivia, tomate el palo, Rocio Marengo, Hector Alterio, Silvio Soldan, Nazarena Velez, Me chupa un huevo, Lombardo, El Puntero, Pepo, Negro Alvarez, Paulo Londra, Jonnhy Allon, Silva",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        }
+      ]
+    },
     {
       "identifier": "quehaceres",
       "name": "Stickers Quehaceres",
