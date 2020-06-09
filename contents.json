@@ -3,6 +3,51 @@
    "ios_app_store_link":"",
    "sticker_packs":[
     {
+      "identifier": "10junio",
+      "name": "Pack Dia de la Cruz Roja Argentina",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "tags": "fiesta, festejo",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
       "identifier": "listorti",
       "name": "Pack Jose Maria Listorti",
       "publisher": "Astro Mobile",
