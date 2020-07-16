@@ -2,2032 +2,3282 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.argentina",
    "ios_app_store_link":"",
    "sticker_packs":[
-    {
-      "identifier": "9julio",
-      "name": "Stickers 9 de Julio",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "fiesta, festejo, argentina",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "sincodificar",
-      "name": "Pack Sin Codificar",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "humor, television, telefe",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "mexico86",
-      "name": "Stickers Mexico 86",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "seleccion, argentina, maradona, mundial",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "ascenso1",
-      "name": "Stickers Futbol Ascenso (1)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "futbol, argentina",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "ascenso2",
-      "name": "Stickers Futbol Ascenso (2)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "futbol, argentina",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "diadelpadre",
-      "name": "Stickers Dia del Padre",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "fiesta, festejo, padre",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "bakeoff2",
-      "name": "Pack Bake Off (2)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "pastelero, television, telefe",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "20junio",
-      "name": "Stickers Dia de la Bandera",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "fiesta, festejo, bandera, argentina",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "faceapp1",
-      "name": "Pack FaceApp",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "face, famosos, humor",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "bakeoff1",
-      "name": "Pack Bake Off 2020",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "pastelero, television, telefe",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "molina",
-      "name": "Pack Molina Campo",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "campo, vaca, leche, tambo, tractor, gaucho",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "10junio",
-      "name": "Pack Dia de la Cruz Roja Argentina",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "fiesta, festejo",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "listorti",
-      "name": "Pack Jose Maria Listorti",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "tv, television",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "dichos3",
-      "name": "Stickers Dichos 3",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "dichos, frases, mensajes, frases",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "2junio",
-      "name": "Stickers Dia del Bombero",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "fiesta, bombero, voluntario, festejo",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "frasestwitter",
-      "name": "Stickers Frases Twitter",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "frases, cuarentena, twitter, covid, corona",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "benditatv",
-      "name": "Pack Bendita Tv",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "bendita, television, casella, beto",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "25mayo",
-      "name": "Stickers 25 de Mayo",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "tags": "fiesta, patria, festejo, mayo, bandera, escarapela",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        }
-      ]
-    },
-   	  {
-	      "identifier": "campo",
-	      "name": "Stickers Campo",
-	      "publisher": "Astro Mobile",
-	      "tray_image_file": "tray.png",
-	      "publisher_website": "",
-	      "publisher_email": "astro.mobile.soft@gmail.com",
-	      "privacy_policy_website": "",
-	      "license_agreement_website": "",
-	      "tags": "campo, vaca, leche, tambo, tractor, cosechadora",
-	      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
+      {
+         "identifier":"fuerzas",
+         "name":"Pack Fuerzas Armadas",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"policia, gendarmeria, aerea, armada, ejercito, prefectura",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"rickyfort",
+         "name":"Pack Ricardo Fort",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"humor, television, ricky",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"9julio",
+         "name":"Pack 9 de Julio",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"fiesta, festejo, argentina",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"sincodificar",
+         "name":"Pack Sin Codificar",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"humor, television, telefe",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"mexico86",
+         "name":"Pack Mexico 86",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"seleccion, argentina, maradona, mundial",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ascenso1",
+         "name":"Pack Futbol Ascenso (1)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"futbol, argentina",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"ascenso2",
+         "name":"Pack Futbol Ascenso (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"futbol, argentina",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"diadelpadre",
+         "name":"Pack Dia del Padre",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"fiesta, festejo, padre",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"bakeoff2",
+         "name":"Pack Bake Off (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"pastelero, television, telefe",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"20junio",
+         "name":"Pack Dia de la Bandera",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"fiesta, festejo, bandera, argentina",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"faceapp1",
+         "name":"Pack FaceApp",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"face, famosos, humor",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"bakeoff1",
+         "name":"Pack Bake Off 2020",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"pastelero, television, telefe",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"molina",
+         "name":"Pack Molina Campo",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"campo, vaca, leche, tambo, tractor, gaucho",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"10junio",
+         "name":"Pack Dia de la Cruz Roja Argentina",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"fiesta, festejo",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"listorti",
+         "name":"Pack Jose Maria Listorti",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"tv, television",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"dichos3",
+         "name":"Pack Dichos 3",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"dichos, frases, mensajes, frases",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"2junio",
+         "name":"Pack Dia del Bombero",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"fiesta, bombero, voluntario, festejo",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"frasestwitter",
+         "name":"Pack Frases Twitter",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"frases, cuarentena, twitter, covid, corona",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"benditatv",
+         "name":"Pack Bendita Tv",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"bendita, television, casella, beto",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"25mayo",
+         "name":"Pack 25 de Mayo",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"fiesta, patria, festejo, mayo, bandera, escarapela",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"campo",
+         "name":"Pack Campo",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "tags":"campo, vaca, leche, tambo, tractor, cosechadora",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
       },
       {
          "identifier":"maestros",
-         "name":"Stickers para Maestros",
+         "name":"Pack para Maestros",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -2220,7 +3470,7 @@
       },
       {
          "identifier":"poster1",
-         "name":"Stickers Poster",
+         "name":"Pack Poster",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -2413,7 +3663,7 @@
       },
       {
          "identifier":"motos",
-         "name":"Stickers Motos",
+         "name":"Pack Motos",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -2606,7 +3856,7 @@
       },
       {
          "identifier":"funeral",
-         "name":"Stickers Meme Funeral",
+         "name":"Pack Meme Funeral",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -2709,7 +3959,7 @@
       },
       {
          "identifier":"mate2",
-         "name":"Stickers Mate 2",
+         "name":"Pack Mate 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -2878,7 +4128,7 @@
       },
       {
          "identifier":"mate",
-         "name":"Stickers Mate",
+         "name":"Pack Mate",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -3059,7 +4309,7 @@
       },
       {
          "identifier":"panaderia",
-         "name":"Stickers Panaderia",
+         "name":"Pack Panaderia",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -3240,7 +4490,7 @@
       },
       {
          "identifier":"costumbres",
-         "name":"Stickers Costumbres",
+         "name":"Pack Costumbres",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -3536,7 +4786,7 @@
       },
       {
          "identifier":"autos",
-         "name":"Stickers Autos Clasicos",
+         "name":"Pack Autos Clasicos",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -3729,7 +4979,7 @@
       },
       {
          "identifier":"yerba",
-         "name":"Stickers Yerba",
+         "name":"Pack Yerba",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -4055,7 +5305,7 @@
       },
       {
          "identifier":"1mayo",
-         "name":"Stickers Dia del Trabajador",
+         "name":"Pack Dia del Trabajador",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -4218,7 +5468,7 @@
       },
       {
          "identifier":"historietas2",
-         "name":"Stickers Historietas (2)",
+         "name":"Pack Historietas (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -4387,7 +5637,7 @@
       },
       {
          "identifier":"historietas",
-         "name":"Stickers Historietas",
+         "name":"Pack Historietas",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -5191,7 +6441,7 @@
       },
       {
          "identifier":"pesca",
-         "name":"Stickers Pesca",
+         "name":"Pack Pesca",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -5433,7 +6683,7 @@
       },
       {
          "identifier":"frasesrock",
-         "name":"Stickers Frases Rock",
+         "name":"Pack Frases Rock",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -5584,7 +6834,7 @@
       },
       {
          "identifier":"amor",
-         "name":"Stickers Amor",
+         "name":"Pack Amor",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -5777,7 +7027,7 @@
       },
       {
          "identifier":"sugerencias",
-         "name":"Stickers Sugerencias",
+         "name":"Pack Sugerencias",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -5970,7 +7220,7 @@
       },
       {
          "identifier":"verano",
-         "name":"Stickers Verano",
+         "name":"Pack Verano",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -6079,7 +7329,7 @@
       },
       {
          "identifier":"dichos2",
-         "name":"Stickers Dichos 2",
+         "name":"Pack Dichos 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -6248,7 +7498,7 @@
       },
       {
          "identifier":"dichos",
-         "name":"Stickers Dichos",
+         "name":"Pack Dichos",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -6924,7 +8174,7 @@
       },
       {
          "identifier":"rugby",
-         "name":"Stickers Rugby Argentino",
+         "name":"Pack Rugby Argentino",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -7117,7 +8367,7 @@
       },
       {
          "identifier":"basket",
-         "name":"Stickers Basket Argentino",
+         "name":"Pack Basket Argentino",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -7310,7 +8560,7 @@
       },
       {
          "identifier":"anonuevo",
-         "name":"Stickers Feliz 2020",
+         "name":"Pack Feliz 2020",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -7413,7 +8663,7 @@
       },
       {
          "identifier":"navidad2",
-         "name":"Stickers Feliz Navidad",
+         "name":"Pack Feliz Navidad",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -7564,7 +8814,7 @@
       },
       {
          "identifier":"navidad1",
-         "name":"Stickers Comida Navidad",
+         "name":"Pack Comida Navidad",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -7751,7 +9001,7 @@
       },
       {
          "identifier":"acciones",
-         "name":"Stickers Acciones",
+         "name":"Pack Acciones",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -7944,7 +9194,7 @@
       },
       {
          "identifier":"cartas1",
-         "name":"Stickers Cartas 1",
+         "name":"Pack Cartas 1",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -8077,7 +9327,7 @@
       },
       {
          "identifier":"cartas2",
-         "name":"Stickers Cartas 2",
+         "name":"Pack Cartas 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -8210,7 +9460,7 @@
       },
       {
          "identifier":"promo",
-         "name":"Stickers Promo",
+         "name":"Pack Promo",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -8289,7 +9539,7 @@
       },
       {
          "identifier":"golosinas",
-         "name":"Stickers Golosinas",
+         "name":"Pack Golosinas",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -8482,7 +9732,7 @@
       },
       {
          "identifier":"estacion",
-         "name":"Stickers Invierno",
+         "name":"Pack Invierno",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -8657,7 +9907,7 @@
       },
       {
          "identifier":"feliz",
-         "name":"Stickers Feliz Cumple",
+         "name":"Pack Feliz Cumple",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -8796,7 +10046,7 @@
       },
       {
          "identifier":"tc",
-         "name":"Stickers TC",
+         "name":"Pack TC",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -8977,7 +10227,7 @@
       },
       {
          "identifier":"turismo",
-         "name":"Stickers Turismo",
+         "name":"Pack Turismo",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -9116,7 +10366,7 @@
       },
       {
          "identifier":"oficios",
-         "name":"Stickers Oficios",
+         "name":"Pack Oficios",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -9866,7 +11116,7 @@
       },
       {
          "identifier":"musicos1",
-         "name":"Stickers Musicos Rock",
+         "name":"Pack Musicos Rock",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -10059,7 +11309,7 @@
       },
       {
          "identifier":"argentinidad1",
-         "name":"Stickers Argentinidad 1",
+         "name":"Pack Argentinidad 1",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -10252,7 +11502,7 @@
       },
       {
          "identifier":"argentinidad2",
-         "name":"Stickers Argentinidad 2",
+         "name":"Pack Argentinidad 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -10409,7 +11659,7 @@
       },
       {
          "identifier":"provincias",
-         "name":"Stickers Provincias",
+         "name":"Pack Provincias",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -10572,7 +11822,7 @@
       },
       {
          "identifier":"gen1",
-         "name":"Stickers Gen Argentino",
+         "name":"Pack Gen Argentino",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -10765,7 +12015,7 @@
       },
       {
          "identifier":"frases",
-         "name":"Stickers Frases",
+         "name":"Pack Frases",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -13192,7 +14442,7 @@
       },
       {
          "identifier":"malafama",
-         "name":"Stickers Mala Fama",
+         "name":"Pack Mala Fama",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -13530,7 +14780,7 @@
       },
       {
          "identifier":"lesluthiers",
-         "name":"Stickers Les Luthiers",
+         "name":"Pack Les Luthiers",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -13663,7 +14913,7 @@
       },
       {
          "identifier":"90minutos1",
-         "name":"Stickers 90 Minutos (1)",
+         "name":"Pack 90 Minutos (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -13796,7 +15046,7 @@
       },
       {
          "identifier":"90minutos2",
-         "name":"Stickers 90 Minutos (2)",
+         "name":"Pack 90 Minutos (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -13929,7 +15179,7 @@
       },
       {
          "identifier":"rabonushka",
-         "name":"Stickers Rabonushka",
+         "name":"Pack Rabonushka",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14074,7 +15324,7 @@
       },
       {
          "identifier":"chavo1",
-         "name":"Stickers El Chavo (1)",
+         "name":"Pack El Chavo (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14261,7 +15511,7 @@
       },
       {
          "identifier":"chavo2",
-         "name":"Stickers El Chavo (2)",
+         "name":"Pack El Chavo (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14454,7 +15704,7 @@
       },
       {
          "identifier":"marginal",
-         "name":"Stickers El Marginal",
+         "name":"Pack El Marginal",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14593,7 +15843,7 @@
       },
       {
          "identifier":"maradona",
-         "name":"Stickers Maradona",
+         "name":"Pack Maradona",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14774,7 +16024,7 @@
       },
       {
          "identifier":"personajes1",
-         "name":"Stickers Personajes 1",
+         "name":"Pack Personajes 1",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14878,7 +16128,7 @@
       },
       {
          "identifier":"personajes2",
-         "name":"Stickers Personajes 2",
+         "name":"Pack Personajes 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -14976,7 +16226,7 @@
       },
       {
          "identifier":"personajes3",
-         "name":"Stickers Personajes 3",
+         "name":"Pack Personajes 3",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15074,7 +16324,7 @@
       },
       {
          "identifier":"personajes4",
-         "name":"Stickers Personajes 4",
+         "name":"Pack Personajes 4",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15178,7 +16428,7 @@
       },
       {
          "identifier":"personajes5",
-         "name":"Stickers Personajes 5",
+         "name":"Pack Personajes 5",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15282,7 +16532,7 @@
       },
       {
          "identifier":"personajes6",
-         "name":"Stickers Personajes 6",
+         "name":"Pack Personajes 6",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15377,7 +16627,7 @@
       },
       {
          "identifier":"personajes7",
-         "name":"Stickers Personajes 7",
+         "name":"Pack Personajes 7",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15481,7 +16731,7 @@
       },
       {
          "identifier":"personajes8",
-         "name":"Stickers Personajes 8",
+         "name":"Pack Personajes 8",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15638,7 +16888,7 @@
       },
       {
          "identifier":"personajes9",
-         "name":"Stickers Personajes 9",
+         "name":"Pack Personajes 9",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15795,7 +17045,7 @@
       },
       {
          "identifier":"personajes10",
-         "name":"Stickers Personajes 10",
+         "name":"Pack Personajes 10",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -15922,7 +17172,7 @@
       },
       {
          "identifier":"personajes11",
-         "name":"Stickers Personajes 11",
+         "name":"Pack Personajes 11",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -16085,7 +17335,7 @@
       },
       {
          "identifier":"personajes12",
-         "name":"Stickers Personajes 12",
+         "name":"Pack Personajes 12",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -16236,7 +17486,7 @@
       },
       {
          "identifier":"personajes13",
-         "name":"Stickers Personajes 13",
+         "name":"Pack Personajes 13",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -16393,7 +17643,7 @@
       },
       {
          "identifier":"personajes14",
-         "name":"Stickers Personajes 14",
+         "name":"Pack Personajes 14",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -16514,7 +17764,7 @@
       },
       {
          "identifier":"personajes15",
-         "name":"Stickers Personajes 15",
+         "name":"Pack Personajes 15",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -16671,7 +17921,7 @@
       },
       {
          "identifier":"personajes16",
-         "name":"Stickers Personajes 16",
+         "name":"Pack Personajes 16",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -16804,7 +18054,7 @@
       },
       {
          "identifier":"quehaceres",
-         "name":"Stickers Quehaceres",
+         "name":"Pack Quehaceres",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -16998,7 +18248,7 @@
       },
       {
          "identifier":"rock",
-         "name":"Stickers Rock Nacional",
+         "name":"Pack Rock Nacional",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -17191,7 +18441,7 @@
       },
       {
          "identifier":"mafalda",
-         "name":"Stickers Mafalda",
+         "name":"Pack Mafalda",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -17306,7 +18556,7 @@
       },
       {
          "identifier":"adolescentes",
-         "name":"Stickers Adolescentes",
+         "name":"Pack Adolescentes",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -17463,7 +18713,7 @@
       },
       {
          "identifier":"feministas",
-         "name":"Stickers Feministas",
+         "name":"Pack Feministas",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -17578,7 +18828,7 @@
       },
       {
          "identifier":"provida",
-         "name":"Stickers Pro Vida",
+         "name":"Pack Pro Vida",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -17651,7 +18901,7 @@
       },
       {
          "identifier":"billetes",
-         "name":"Stickers Billetes",
+         "name":"Pack Billetes",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -17844,7 +19094,7 @@
       },
       {
          "identifier":"banderines1",
-         "name":"Stickers Banderines A",
+         "name":"Pack Banderines A",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -18013,7 +19263,7 @@
       },
       {
          "identifier":"banderines2",
-         "name":"Stickers Banderines B",
+         "name":"Pack Banderines B",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -18110,7 +19360,7 @@
       },
       {
          "identifier":"politica1",
-         "name":"Stickers Logos Politica",
+         "name":"Pack Logos Politica",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
