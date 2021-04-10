@@ -2,7 +2,7 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.argentina",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
+   	{
          "identifier":"pascuas2",
          "name":"Felices Pascuas",
          "publisher":"Astro Mobile",
@@ -11,6 +11,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"huevos, pascuas",
          "stickers":[
             {
@@ -204,6 +207,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, estacion",
          "stickers":[
             {
@@ -301,6 +307,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tv, futbol",
          "stickers":[
             {
@@ -494,6 +503,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,   
          "tags":"saludos, estacion",
          "stickers":[
             {
@@ -561,6 +573,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, mensajes",
          "stickers":[
             {
@@ -652,6 +667,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, mensajes",
          "stickers":[
             {
@@ -809,6 +827,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, mensajes",
          "stickers":[
             {
@@ -972,6 +993,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tv, chismes",
          "stickers":[
             {
@@ -1129,6 +1153,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tv, futbol",
          "stickers":[
             {
@@ -1322,6 +1349,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, clasico",
          "stickers":[
             {
@@ -1485,6 +1515,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tv, futbol",
          "stickers":[
             {
@@ -1678,6 +1711,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"musica, indio",
          "stickers":[
             {
@@ -1817,6 +1853,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"musica, tango",
          "stickers":[
             {
@@ -1896,6 +1935,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"musica, indio",
          "stickers":[
             {
@@ -2077,6 +2119,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"festejo, dia",
          "stickers":[
             {
@@ -2210,6 +2255,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tv, francella",
          "stickers":[
             {
@@ -2391,6 +2439,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"carteles, mensajes",
          "stickers":[
             {
@@ -2566,6 +2617,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tv, cocina",
          "stickers":[
             {
@@ -2759,6 +2813,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"vacunas, covid",
          "stickers":[
             {
@@ -2892,6 +2949,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"animales, saludos",
          "stickers":[
             {
@@ -3025,6 +3085,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"salud, ministro",
          "stickers":[
             {
@@ -3146,6 +3209,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"cantante, mediatico",
          "stickers":[
             {
@@ -3321,6 +3387,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"carlitos, riojano",
          "stickers":[
             {
@@ -3478,6 +3547,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"carlitos, riojano",
          "stickers":[
             {
@@ -3665,7 +3737,10 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"carlitos, riojano",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "tags":"amor, corazon",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -3840,6 +3915,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, osos",
          "stickers":[
             {
@@ -3997,6 +4075,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, osos",
          "stickers":[
             {
@@ -4154,6 +4235,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, frutas",
          "stickers":[
             {
@@ -4317,6 +4401,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"carlitos, riojano",
          "stickers":[
             {
@@ -4510,6 +4597,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, tiernos",
          "stickers":[
             {
@@ -4679,6 +4769,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"musica, cumbia",
          "stickers":[
             {
@@ -4854,6 +4947,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos",
          "stickers":[
             {
@@ -4933,6 +5029,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, tiernos",
          "stickers":[
             {
@@ -5102,6 +5201,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, tiernos",
          "stickers":[
             {
@@ -5265,6 +5367,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"final, television, cocina",
          "stickers":[
             {
@@ -5440,6 +5545,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, cortos, buen",
          "stickers":[
             {
@@ -5615,6 +5723,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, cortos, buen",
          "stickers":[
             {
@@ -5772,6 +5883,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, cortos, buen",
          "stickers":[
             {
@@ -5911,6 +6025,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos, cortos, buen",
          "stickers":[
             {
@@ -6080,6 +6197,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, tv, cable",
          "stickers":[
             {
@@ -6273,6 +6393,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dios, gauchito, gil, fiesta, religion",
          "stickers":[
             {
@@ -6334,6 +6457,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dios, gauchito, cristo, papa, virgen, cayetano, francisco, expedito, jesus, santo",
          "stickers":[
             {
@@ -6485,6 +6611,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludos",
          "stickers":[
             {
@@ -6642,6 +6771,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"verde, aborto, vida",
          "stickers":[
             {
@@ -6751,6 +6883,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"verde, aborto, vida",
          "stickers":[
             {
@@ -6866,6 +7001,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, aborto, misoprostol, verde",
          "stickers":[
             {
@@ -6981,6 +7119,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, las dos vidas",
          "stickers":[
             {
@@ -7054,6 +7195,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"corona, virus, verano",
          "stickers":[
             {
@@ -7181,6 +7325,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"escuela, zoom, graduado",
          "stickers":[
             {
@@ -7290,6 +7437,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"disco, entel, sifon, pumper, tiki, reloj",
          "stickers":[
             {
@@ -7471,6 +7621,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"festejo, religion, argentina",
          "stickers":[
             {
@@ -7544,6 +7697,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"pelicula, humor",
          "stickers":[
             {
@@ -7731,6 +7887,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"pelicula, humor",
          "stickers":[
             {
@@ -7924,6 +8083,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"festejo, gaucho, argentina",
          "stickers":[
             {
@@ -7997,6 +8159,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"festejo, doctor, salud",
          "stickers":[
             {
@@ -8052,6 +8217,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"saludo, amargo, dulce, dichos",
          "stickers":[
             {
@@ -8185,6 +8353,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"mate, yerba, bombilla",
          "stickers":[
             {
@@ -8354,6 +8525,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"mate, yerba, bombilla",
          "stickers":[
             {
@@ -8535,6 +8709,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"diez, diego, jugador, seleccion",
          "stickers":[
             {
@@ -8728,6 +8905,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"diez, diego, jugador, seleccion",
          "stickers":[
             {
@@ -8921,6 +9101,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"diez, diego, jugador, seleccion",
          "stickers":[
             {
@@ -9114,6 +9297,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"diez, diego, jugador, seleccion",
          "stickers":[
             {
@@ -9301,6 +9487,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"seleccion, argentina, maradona, mundial",
          "stickers":[
             {
@@ -9488,6 +9677,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"maradona, che, papa, ginobili, mate, argentina, messi, bandera, enorme",
          "stickers":[
             {
@@ -9681,6 +9873,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"diego, futbol, dichos, soccer",
          "stickers":[
             {
@@ -9862,6 +10057,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, television, tv",
          "stickers":[
             {
@@ -10001,6 +10199,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"festejo, 20, patria, festejo, argentina",
          "stickers":[
             {
@@ -10068,6 +10269,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina, miedo",
          "stickers":[
             {
@@ -10261,6 +10465,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"uar, pumas, argentina, historico, all, blacks",
          "stickers":[
             {
@@ -10382,6 +10589,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, tv, cocina, reality",
          "stickers":[
             {
@@ -10569,6 +10779,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina, miedo",
          "stickers":[
             {
@@ -10762,6 +10975,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"moneda, verde, blue",
          "stickers":[
             {
@@ -10871,10 +11087,10 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"humor, youtuber",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
+         "tags":"humor, youtuber",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -11061,6 +11277,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dia, festejo, mama",
          "stickers":[
             {
@@ -11194,6 +11413,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dia, peron, evita",
          "stickers":[
             {
@@ -11297,6 +11519,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dia, raza, colon",
          "stickers":[
             {
@@ -11382,6 +11607,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"invierno, verano, lluvia, tiempo, sol",
          "stickers":[
             {
@@ -11515,6 +11743,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, manuelita, susanita, manolo, felipe, quino",
          "stickers":[
             {
@@ -11648,6 +11879,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, game, frases",
          "stickers":[
             {
@@ -11799,6 +12033,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina",
          "stickers":[
             {
@@ -11926,6 +12163,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"juego, mentira",
          "stickers":[
             {
@@ -12119,6 +12359,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina",
          "stickers":[
             {
@@ -12210,6 +12453,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"buen, beso, saludos, dichos",
          "stickers":[
             {
@@ -12391,6 +12637,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina",
          "stickers":[
             {
@@ -12464,6 +12713,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"messi, diez, barcelona",
          "stickers":[
             {
@@ -12609,6 +12861,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, television",
          "stickers":[
             {
@@ -12766,6 +13021,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina",
          "stickers":[
             {
@@ -12839,6 +13097,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina",
          "stickers":[
             {
@@ -12936,6 +13197,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"santo, trabajo, pan",
          "stickers":[
             {
@@ -12991,6 +13255,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, television, frases",
          "stickers":[
             {
@@ -13130,6 +13397,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"danza, gardel, milonga",
          "stickers":[
             {
@@ -13281,6 +13551,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"disco, entel, sifon, pumper, tiki, reloj",
          "stickers":[
             {
@@ -13474,6 +13747,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, amiga, argentina",
          "stickers":[
             {
@@ -13589,6 +13865,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"policia, gendarmeria, aerea, armada, ejercito, prefectura",
          "stickers":[
             {
@@ -13776,6 +14055,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, television, ricky",
          "stickers":[
             {
@@ -13969,6 +14251,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, argentina",
          "stickers":[
             {
@@ -14090,6 +14375,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, television, telefe",
          "stickers":[
             {
@@ -14283,6 +14571,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, argentina",
          "stickers":[
             {
@@ -14476,6 +14767,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, argentina",
          "stickers":[
             {
@@ -14669,6 +14963,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, padre",
          "stickers":[
             {
@@ -14760,6 +15057,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"pastelero, television, telefe",
          "stickers":[
             {
@@ -14941,6 +15241,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo, bandera, argentina",
          "stickers":[
             {
@@ -15074,6 +15377,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"face, famosos, humor",
          "stickers":[
             {
@@ -15249,6 +15555,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"pastelero, television, telefe",
          "stickers":[
             {
@@ -15442,6 +15751,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"campo, vaca, leche, tambo, tractor, gaucho",
          "stickers":[
             {
@@ -15605,6 +15917,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, festejo",
          "stickers":[
             {
@@ -15666,6 +15981,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tv, television",
          "stickers":[
             {
@@ -15823,6 +16141,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, mensajes, frases",
          "stickers":[
             {
@@ -15968,6 +16289,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, bombero, voluntario, festejo",
          "stickers":[
             {
@@ -16023,6 +16347,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"frases, cuarentena, twitter, covid, corona",
          "stickers":[
             {
@@ -16216,6 +16543,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"bendita, television, casella, beto",
          "stickers":[
             {
@@ -16409,6 +16739,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"fiesta, patria, festejo, mayo, bandera, escarapela",
          "stickers":[
             {
@@ -16500,6 +16833,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"campo, vaca, leche, tambo, tractor, cosechadora",
          "stickers":[
             {
@@ -16693,6 +17029,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"maestros, correcciones, alumnos, escuela, primaria, tarea",
          "stickers":[
             {
@@ -16886,6 +17225,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"moto, harley, zanella, econo, ciclomotor, scooter",
          "stickers":[
             {
@@ -17079,6 +17421,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"negros, funeral, meme",
          "stickers":[
             {
@@ -17182,6 +17527,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"facturas, pan, bizcocho, medialunas, budin, pepas, pastafrola, empanadas, pizza, pebete, palmeritas, rosca, torta",
          "stickers":[
             {
@@ -17363,6 +17711,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"alfajores, asado, dulce, fernet, chori, cerveza, milanesa, facturas, empanadas, hamburguesa, churros, medialuna, pizza, pollo, tango, vino, tortafrita, panqueques, picada, pastafrola",
          "stickers":[
             {
@@ -17555,7 +17906,9 @@
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
-         "license_agreement_website":"",
+         "license_agreement_website":"","image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"buen, beso, saludos, dichos",
          "stickers":[
             {
@@ -17659,6 +18012,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"citroen, ford, chevrolet, renault, falcon, torino, fiat, peugeot, wolk, dodge",
          "stickers":[
             {
@@ -17852,6 +18208,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"mate, amanda, taragui, andresito, chamigo, cbc, nobleza gaucha, tranquera, cruz de malta, playadito, merced, cumbrecita, rosamonte, union, cachamata, pipore",
          "stickers":[
             {
@@ -18045,6 +18404,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"gracias, medicos, enfermeras, policia, corona, trabajador, trabajo, basurero, informatico",
          "stickers":[
             {
@@ -18208,6 +18570,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"inodoro, pereyra, linyera, boogie, pepe, cazador, eternauta",
          "stickers":[
             {
@@ -18377,6 +18742,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"isidoro, isidorito, paturuzu, paturizito, matias, clemente, neurus, superhijitus, pucho, anteojito, larguirucho, calculin, manuelita, mafalda, mario",
          "stickers":[
             {
@@ -18558,6 +18926,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, river, boca, racing, independiente, san lorenzo",
          "stickers":[
             {
@@ -18721,6 +19092,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, river, boca, racing, independiente, san lorenzo, jugadores, maradona",
          "more":"com.astromobile.stickers.soccer",
          "stickers":[
@@ -18909,6 +19283,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"mensajes, dichos, frases",
          "stickers":[
             {
@@ -19030,6 +19407,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"pique, carnada, pescado, peces, dichos, frases",
          "stickers":[
             {
@@ -19139,6 +19519,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, cumbia, mona, rodrigo, frases, rios",
          "stickers":[
             {
@@ -19272,6 +19655,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, rock, charly, calamaro, fito, piojos, renga, juanse, pappo, indio, redondos, kapanga",
          "stickers":[
             {
@@ -19423,6 +19809,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"beso, frases, dichos, enamorado, corazon",
          "stickers":[
             {
@@ -19616,6 +20005,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, mensajes",
          "stickers":[
             {
@@ -19809,6 +20201,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"playa, calor, estacion",
          "stickers":[
             {
@@ -19918,6 +20313,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, mensajes, frases",
          "stickers":[
             {
@@ -20087,6 +20485,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, mensajes, frases",
          "stickers":[
             {
@@ -20262,6 +20663,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, mensajes, frases",
          "stickers":[
             {
@@ -20413,6 +20817,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"virgo, tauro, acuario, leo, cancer, escorpio, geminis, libra, sagitario, capricorino, picis, aries, signos",
          "stickers":[
             {
@@ -20570,6 +20977,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, recuerdo, monia, martin, ancho, caballero, pibe",
          "stickers":[
             {
@@ -20763,6 +21173,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"uar, pumas, argentina",
          "stickers":[
             {
@@ -20956,6 +21369,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"ginobili, scola, nocioni, sanchez, seleccion, argentina",
          "stickers":[
             {
@@ -21149,6 +21565,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, festejo, brindis, feliz",
          "stickers":[
             {
@@ -21252,6 +21671,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, casa, trabajo, limpiando, mates, lugares",
          "stickers":[
             {
@@ -21445,6 +21867,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce, copa, oro, basto, espada",
          "stickers":[
             {
@@ -21578,6 +22003,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce, copa, oro, basto, espada",
          "stickers":[
             {
@@ -21711,6 +22139,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"publicidad, propaganda",
          "stickers":[
             {
@@ -21790,6 +22221,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"alfajor, havanna, bonobon, tita, rhodesia, jorgelin, flynn, sugus, fizz, palitos, chicle, beldent, pico, topolin, hamlet, mentitas, drf, yummy, yapa, punch, mogul, dolca",
          "stickers":[
             {
@@ -21983,6 +22417,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"invierno, frio, abrigate, dichos, frases",
          "stickers":[
             {
@@ -22158,6 +22595,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, festejo, brindis, feliz",
          "stickers":[
             {
@@ -22297,6 +22737,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"turismo, carretera, tc200, autos, carrera, citroen, ford, chevrolet, renault, falcon, torino, fiat, peugeot, wolk, dodge",
          "stickers":[
             {
@@ -22478,6 +22921,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"bariloche, salta, mar del plata, cordoba, cataratas, glaciar, viaje, vacaciones, usuahia, mendoza, tucuman, madryn, cafayate",
          "stickers":[
             {
@@ -22617,6 +23063,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"trabajos, doctor, maestra, empleado, enfermera, veterinario, policia, carnicero, panadero, obrero, pintor, mecanico, correo, taxista, transporte",
          "stickers":[
             {
@@ -22787,6 +23236,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.transporte",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tren, colectivo, micro, subte, publico",
          "stickers":[
             {
@@ -22981,6 +23433,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.transporte",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"tren, colectivo, micro, subte, publico",
          "stickers":[
             {
@@ -23174,6 +23629,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"iorio, pity, vicentico, atahualpa, juanse, dargelos, fontanet, sokol, gardel, mercedes, mona, sandro, goyeneche, barilari, piazzola, astor, palavac, sole, guarani, cacho, mores, maslosetti, ortega",
          "stickers":[
             {
@@ -23367,6 +23825,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"indio, solari, fito, mollo, charly, chizzo, luca, spinetta, calamaro, cerati, pappo, gieco, aznar, mestre, ciro, pertusi",
          "stickers":[
             {
@@ -23560,6 +24021,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"banderas, escarapela, salta, la plata, cordoba, buenos aires, argento, argentina",
          "stickers":[
             {
@@ -23753,6 +24217,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"banderas, escarapela, tango, mate, argento, argentina",
          "stickers":[
             {
@@ -23910,6 +24377,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"argentina, territorio",
          "stickers":[
             {
@@ -24073,6 +24543,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"personajes, olmedo, gardel, borges, argentina, peron, san martin, belgrano, ginobili, maradona, evita, piazzola",
          "stickers":[
             {
@@ -24266,6 +24739,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, mensajes",
          "stickers":[
             {
@@ -24459,6 +24935,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"carpincho, matero, river, boca, meme",
          "stickers":[
             {
@@ -24652,6 +25131,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"samid, mauro, argentina, amia, pelea, television",
          "stickers":[
             {
@@ -24743,6 +25225,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"youtubers, couscu, argentina, youtube",
          "stickers":[
             {
@@ -24930,6 +25415,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"lampone, ravenna, telefe, santos, medina",
          "stickers":[
             {
@@ -25123,6 +25611,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"lampone, ravenna, telefe, santos, medina",
          "stickers":[
             {
@@ -25316,6 +25807,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"messi, lionel, futbol, argentina, dichos",
          "stickers":[
             {
@@ -25509,6 +26003,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"moni, pepe, argento, serie, tv, telefe",
          "stickers":[
             {
@@ -25702,6 +26199,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"peter, pomelo, serie, tv, bija, faso, bombita, micky, violencia, rivas",
          "stickers":[
             {
@@ -25895,6 +26395,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"guido, repe, no tan mal, serie, tv, canal 13",
          "stickers":[
             {
@@ -25992,6 +26495,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"hugo, basilotta, alfajor",
          "stickers":[
             {
@@ -26065,6 +26571,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, dichos, soccer, jugadores, players",
          "stickers":[
             {
@@ -26258,6 +26767,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, dichos, soccer, jugadores, players",
          "stickers":[
             {
@@ -26385,6 +26897,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"luduena, cuatro, soccer, jugador, dichos",
          "stickers":[
             {
@@ -26524,6 +27039,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"doctor, rabufetti, julio, bromas, telefonicas",
          "stickers":[
             {
@@ -26693,6 +27211,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"amiguero, japish, malafamero, ratita, basura",
          "stickers":[
             {
@@ -26844,6 +27365,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, dichos, soccer, jugadores, players",
          "stickers":[
             {
@@ -27031,6 +27555,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"humor, dichos, comico",
          "stickers":[
             {
@@ -27164,6 +27691,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, pollo, humor, ruggeri, chavo, cabezon, vignolo",
          "stickers":[
             {
@@ -27297,6 +27827,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, pollo, humor, ruggeri, chavo, cabezon, vignolo",
          "stickers":[
             {
@@ -27430,6 +27963,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, tyc, humor, sin nombre",
          "stickers":[
             {
@@ -27575,6 +28111,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, del 8, kiko, chilindrina, chavo, ramon, telefe",
          "stickers":[
             {
@@ -27762,6 +28301,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, del 8, kiko, chilindrina, chavo, ramon, telefe",
          "stickers":[
             {
@@ -27955,6 +28497,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, carcel, dichos, diosito, borges, sapo, moco",
          "stickers":[
             {
@@ -28095,6 +28640,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.personajes",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Caruso Lombardi, Charly Garcia, Andy Kusnetzoff, Diego Maradona, Olmedo Manosanta, Eduardo Feinmann, Roberto Giordano, Mauricio Macri, Elisa Carrio, Papa Francisco, Zulma Lobato, Mariano Iudica, Jorge Samid, Guillermo Nimo, Luis D Elia, Ricardo Iorio, Pappo, Juan Roman Riquelme, Luis Ventura, No me midas, Say no more, Podemos hablar, Tortuga, Charuto, Gato, trabajo honesto",
          "stickers":[
             {
@@ -28199,6 +28747,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.personajes",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Carlitos Bala, El chavo del 8, Cristina Fernandez, Santiago Del Moro, Diego Maradona, Alejandro Fantino, Ricardo Fort, Mirtha Legrand, Moria Casan, Nestor Kirchner, Horacio Pagani, Ramon Diaz, Susana Gimenez, El Demente, El Bananero, La tenes adentro, Nerviosho, Mierda, Carajo",
          "stickers":[
             {
@@ -28297,6 +28848,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.personajes",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Amigacho, Marcelo Benedetto, Capusotto, Ernesto Che Guevara, Cristina Fernandez, Fernando de la Rua, Guillermo Francella, Enrique el Antiguo, Ricardo Fort, Wanda Nara, Maria Elena Fuseneco, Diego Maradona, Carlos Menem, Micky Vainilla, Mirtha Legrand, Mona Jimenez, Moni Argento, Pepe Argento, Marcelo Polino, Sebastian Pollo Vignolo, Daniel Scioli, Sebastian Presta, Prestico, Primo Coco Sili, Ivo Kutzarida, Carlos Tevez, Mauricio Macri, No la pongo, Hasta la victoria, Vos lo votaste, Aburrido, Cachando, cafecito, cantalo, vino, very dificult",
          "stickers":[
             {
@@ -28395,6 +28949,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.personajes",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Ininputable, Faso, Capusotto, Guillermo Francella, a comerla, es una nena, te quiero, Antonio Gasalla, Yegua, La abuela, Carlos Gardel, Carlos Balá, Angueto, Juan Carlos Calabro, Topo Gigio, Emilio Disi, Lechonas, Minguito, Juan Carlos Altavista, Paolo Rockero, Sebastian Presta, Prestico, China Zorrilla, Puchero, Esperando la Carroza, Luis Brandoni, Tres empanadas, Los Simuladores",
          "stickers":[
             {
@@ -28499,6 +29056,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.personajes",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Tano Passman, Juan Perugia, Gaston Pauls, Daniel Passarella, Oriana Junco, Jose Maria Listorti, Cogote, Capusotto, Bija, Luis Barrionuevo, Alto guiso, Candela, Martin Liberman, Gigolo, Traeme la copa, Peters, Chano, Cacho Castaña, Jacobo Winograd, Karina Jelinek, Vicky Xipolitakis, Jorge Rial, Masomeno, Alex Caniggia, Ricardo Canaletti",
          "stickers":[
             {
@@ -28603,6 +29163,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.personajes",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Bambino Veira, Marcelo Tinelli, Roberto Galan, Riverito, Ricardo Darin, Mirtha Legrand, Isabel Coca Sarli, Saca la foto, cruzar los dedos, tormenta de facha, Carlos Carlin Calvo, Tato Bores, Guillermo Francella, Tana Ferro, Un novio para mi mujer, Valeria Bertucceli, Jacobo Winograd, Gabriel Schultz, Fabio Alberti, boluda total, Cayetano, Atiendo boludos, Mauro Icardi",
          "stickers":[
             {
@@ -28698,6 +29261,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.personajes",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Guillermo Francella, Cristina Fernandez, Pichu Straneo, Yayo, Carlos Menem, Pepe Mujica, Rebos, Chinwenwencha, Diego Maradona, Mauricio Macri, Tangalanga, Leonardo Farina, Carlos Menem, Aldo Rico, Javier Mascherano, Juan Manuel Fangio, Marcelo Benedetto, Sebastian Pollo Vignolo, Jose Luis Chilavert, Guido Kaczka, Mirtha Legrand, Matias Martin",
          "stickers":[
             {
@@ -28801,6 +29367,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Capusotto, altas llantas, Gustavo Cordera, Leo rompe pepe, Ari Paluch, Walter Nelson, Wachiturros, Ricardo Conchita Barreda, Juan Darthes, China, La Faraona, Abel Pinto, Mono Mario, Diego Maradona, Fito Paez, a comerla, A lo tuyo, eia, El Marginal, El Pantera, Diosito, El Sapo, Marito Borges, El Cuis",
          "stickers":[
             {
@@ -28958,6 +29527,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Oscar Ruggeri, 90 minutos, Marcelo Bielsa, El Marginal, Brian Bulei, Colombiano, El demente, Alfredo Casero, Flan, wachin, Mauricio Macri, Gato, No de nuevo, Serafin Dengra, Serafo, Never Pony, Pura sangre, Miss Bolivia, tomate el palo, Rocio Marengo, Hector Alterio, Silvio Soldan, Nazarena Velez, Me chupa un huevo, Lombardo, El Puntero, Pepo, Negro Alvarez, Paulo Londra, Jonnhy Allon, Silva",
          "stickers":[
             {
@@ -29115,6 +29687,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Robertito Funes, Guillermo Francella, Quique Fellman, Eduardo Feinmann, Ivan De Pineda, La Faraona, Emanuel Ginobili, Lizzy Tagliani, Daniel Osvaldo, Guido Suller, Rodrigo Bueno, El potro, Diego Latorre, Charango, Lionel Messi, Mauricio Macri, 500 lucas, Juan Carlos Calabro, El contra, Gerardo Sofovich, Mercedes Ninci",
          "stickers":[
             {
@@ -29242,6 +29817,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"La Faraona, Mala Fama, Kiosquini, Migue Granados, Enano de boca, Tano Passman, Marcelo Gallardo, Olmedo, Mauricio Macri, Scorpions, Sol Perez, Milei, Carmen Barbieri, Capusotto, Pomelo, Bombita Rodriguez, Ricardo Darin, Cristina fernandez, Cristine Lagarde, Elisa Carrio",
          "stickers":[
             {
@@ -29405,6 +29983,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Pichu Straneo, Elisa Carrio, Domingo Cavallo, Diego Maradona, Oficial Gordillo, Eduardo Duhalde, Ricardo Fort, Chimuelo, Raul Alfonsin, Peters, Galtieri, Coki Argento, Mauricio Macri, Anda a la cancha bobo, Carlos Menem, Martin Palermo",
          "stickers":[
             {
@@ -29556,6 +30137,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"Juan Alberto Mateyco, Ricardo Centurion, Mauricio Macri, Diego Maradona, Sergio Kun Aguero, Mirtha Legrand, Brian Sarmiento, Leonardo Fariña, Adriana Aguirre, Aldo Rico, China Zorrilla, Esperando la Carroza, Guillermo Francella, Exterminator, Luis Maria Traverso, Enzo Perez, La Comadreja, Cristina fernandez, Tusam, Vistima, Aldo Rico, Rodolfo Barili",
          "stickers":[
             {
@@ -29713,6 +30297,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, dichos, susana, mirta, mirtha, pachano, nicole neuman, ramon, riverito, niembro, enano, zi senora, franco armani, marcelo tinelli, moria, mitre",
          "stickers":[
             {
@@ -29834,6 +30421,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, duki, dichos, bullrich, zapata, fernandez, bambino, enzo perez, lionel scaloni, alberto, humor, macri, gato",
          "stickers":[
             {
@@ -29991,6 +30581,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"television, chizito, dichos, diosito, humor, macri, gato, jacobo, mr bean, di caprio, scioli, mariana nanis, meme, colorado, bebe",
          "stickers":[
             {
@@ -30125,6 +30718,9 @@
          "privacy_policy_website":"",
          "license_agreement_website":"",
          "more":"com.astromobile.stickers.housework",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, acciones",
          "stickers":[
             {
@@ -30318,6 +30914,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, bandas",
          "stickers":[
             {
@@ -30511,6 +31110,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"dichos, frases, duki, atr",
          "stickers":[
             {
@@ -30668,6 +31270,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"moneda, pesos, australes",
          "stickers":[
             {
@@ -30861,6 +31466,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, river, boca, racing, independiente, san lorenzo, afa",
          "stickers":[
             {
@@ -31030,6 +31638,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"futbol, chacarita, platense, altanta, quilmes, andes, olimpo, moron, ferro, chicago, afa",
          "stickers":[
             {
@@ -31127,6 +31738,9 @@
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "tags":"abuelas, clarin, campora, nacion, uocra, justicialismo, pro, unidad, smata, hijos, ejercito, cta, cronica, cambiemos, armada",
          "stickers":[
             {
