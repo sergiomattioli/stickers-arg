@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"messia1",
-         "name":"Messi(2)",
+         "name":"Messi (2)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -92,7 +92,7 @@
       },
       {
          "identifier":"messia2",
-         "name":"Messi(3)",
+         "name":"Messi (3)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
