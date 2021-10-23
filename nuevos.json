@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"matea4",
-         "name":"Mate Animados (4)",
+         "identifier":"matea5",
+         "name":"Mate Animados (5)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -91,8 +91,8 @@
          ]
       },
       {
-         "identifier":"matea3",
-         "name":"Mate Animados (3)",
+         "identifier":"matea4",
+         "name":"Mate Animados (4)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
