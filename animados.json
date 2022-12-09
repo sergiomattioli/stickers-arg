@@ -3,7 +3,7 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"worldcup2022o2c",
+         "identifier":"worldcup2022q2c",
          "name":"Argentina vs Holanda (3)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
@@ -79,7 +79,7 @@
          ]
       },
       {
-         "identifier":"worldcup2022o2d",
+         "identifier":"worldcup2022q2d",
          "name":"Argentina vs Holanda (4)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
