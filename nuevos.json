@@ -3,6 +3,1054 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"navidad3",
+         "name":"Feliz Navidad (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"navidad2",
+         "name":"Feliz Navidad",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "tags":"dichos, festejo, brindis, pan dulce, sidra, confites, cohetes, vitel, nueces, asasdo, turron, garrapi",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"navidadclubes1",
+         "name":"Navidad Clubes (1)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"navidadclubes2",
+         "name":"Navidad Clubes (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"navidad1",
+         "name":"Comidas Navidad",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "tags":"dichos, festejo, brindis, feliz",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"mamanoel",
+         "name":"Mamá Noel",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, navidad",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"saludospapanoel",
+         "name":"Saludos Papá Noel",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, navidad",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"christmastree",
+         "name":"Arbol de Navidad",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"animados, saludos, disney",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"verano",
+         "name":"Stickers Verano",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "tags":"invierno, verano, lluvia, tiempo, sol",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"worldcup2022w13",
          "name":"Argentina Campeón Caravana",
          "publisher":"Astro Mobile",
@@ -32953,1054 +34001,6 @@
             },
             {
                "image_file":"30.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"navidad3",
-         "name":"Feliz Navidad (2)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"navidad2",
-         "name":"Feliz Navidad",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "tags":"dichos, festejo, brindis, pan dulce, sidra, confites, cohetes, vitel, nueces, asasdo, turron, garrapi",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"21.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"22.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"23.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"24.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"25.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"26.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"27.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"28.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"29.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"30.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"navidadclubes1",
-         "name":"Navidad Clubes (1)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"navidadclubes2",
-         "name":"Navidad Clubes (2)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"navidad1",
-         "name":"Comidas Navidad",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "tags":"dichos, festejo, brindis, feliz",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"21.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"22.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"23.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"24.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"25.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"26.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"27.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"28.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"29.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"mamanoel",
-         "name":"Mamá Noel",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, navidad",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"saludospapanoel",
-         "name":"Saludos Papá Noel",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, navidad",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"christmastree",
-         "name":"Arbol de Navidad",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"animados, saludos, disney",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"verano",
-         "name":"Stickers Verano",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "tags":"invierno, verano, lluvia, tiempo, sol",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
                "emojis":[
                   
                ]
