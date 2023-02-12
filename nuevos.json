@@ -3,458 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"calor1",
-         "name":"Calor (1)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"calor2",
-         "name":"Calor (2)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"calor3",
-         "name":"Calor (3)",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"verano2023",
-         "name":"verano 2023",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"verano",
-         "name":"Stickers Verano",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "tags":"invierno, verano, lluvia, tiempo, sol",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
          "identifier":"worldcup2022w14",
          "name":"Argentina Campeón (14)",
          "publisher":"Astro Mobile",
@@ -585,6 +133,94 @@
                "image_file":"20.webp",
                "emojis":[
 
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"verano2023",
+         "name":"verano 2023",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
                ]
             }
          ]
@@ -2431,6 +2067,112 @@
             },
             {
                "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"verano",
+         "name":"Stickers Verano",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "tags":"invierno, verano, lluvia, tiempo, sol",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
                "emojis":[
                   
                ]
@@ -33830,6 +33572,264 @@
             },
             {
                "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"calor3",
+         "name":"Calor (3)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"calor1",
+         "name":"Calor (1)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"calor2",
+         "name":"Calor (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
                "emojis":[
                   
                ]
