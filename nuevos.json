@@ -3,6 +3,200 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"findelargo1",
+         "name":"Finde Largo",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"carnavala1",
+         "name":"Carnaval",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"carnaval, festejo, comparsa",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"14febreroa1",
          "name":"San Valentín",
          "publisher":"Astro Mobile",
@@ -7245,82 +7439,6 @@
          "avoid_cache":false,
          "isAnimated":false,
          "tags":"festejo, religion, argentina",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"findelargo1",
-         "name":"Finde Largo",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "tags":"",
          "stickers":[
             {
                "image_file":"1.webp",
@@ -31970,124 +32088,6 @@
             },
             {
                "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"carnavala1",
-         "name":"Carnaval",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":true,
-         "tags":"carnaval, festejo, comparsa",
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
                "emojis":[
                   
                ]
