@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"ucraniaa1",
-         "name":"Paz en Ucrania",
+         "name":"Paz en Ucrania (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -72,9 +72,9 @@
             }
          ]
       },
-            {
-         "identifier":"ucraniaa1",
-         "name":"Paz en Ucrania",
+      {
+         "identifier":"ucraniaa2",
+         "name":"Paz en Ucrania (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -130,12 +130,6 @@
             },
             {
                "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
                "emojis":[
                   
                ]
